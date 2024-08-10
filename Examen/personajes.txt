@@ -1,0 +1,3 @@
+Juan,300,100,50,100,Soldado
+Juan,300,100,50,100,Soldado
+Tony,150,50,80,1000,Agricultor
